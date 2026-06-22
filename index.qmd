@@ -1,40 +1,45 @@
 ---
 title: "Xueqian (Chelsea) Chen"
 about:
-  template: broadside
+  template: jolla
   image: images/profile.jpeg
   links:
     - icon: envelope
       text: Email
-      href: quequeque1220@gmail.com
+      href: mailto:quequeque1220@gmail.com
     - icon: github
       text: GitHub
       href: https://github.com/chen11760
     - icon: mortarboard
       text: Google Scholar
       href: https://scholar.google.com.hk/citations?user=GfMZzOMAAAAJ&hl
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/xueqian-chen-516211263
+
 
 ---
 
+Xueqian (Chelsea) Chen is a PhD Candidate in Sociology at The Ohio State University. Her research examines how families serve as key sites in the production and reproduction of social inequality across the life course. Drawing on perspectives from family demography and social stratification, she investigates how growing economic insecurity, welfare state restructuring, and rising wealth inequality reshape family relationships, caregiving, and intergenerational inequality.
+
+Using longitudinal survey data, experimental methods, and causal inference techniques, her work explores family dynamics across diverse social contexts, with empirical research spanning China, the United States, and Sub-Saharan Africa.
 
 
-I am a PhD Candidate in Sociology at The Ohio State University, specializing in family demography, social stratification, and life course research. My work examines how inequality is produced and reproduced through family processes, with particular attention to rising wealth inequality and the ways families are embedded within and shaped by changing structures of economic inequality.
+
 
 ## Research Interests
 
-- Family demography
-- Social stratification
-- Wealth, debt, & asset
-- Gender inequality
-- Life course
-- Causal inference
+Family demography ｜ Social stratification ｜ Wealth, debt, & asset
+
+Gender inequality ｜ Life course  ｜ Causal inference
+
+
 
 ## Education
+The Ohio State University ｜ PhD in Sociology ｜ Expected 2028
 
-**The Ohio State University** | PhD in Sociology | Expected 2028
+Peking University         ｜ MA in Demography ｜ 2022
 
-**Peking University** | MA in Demography | 2022
-
-**Nanjing University** | BA in Sociology | 2019
+Nanjing University        ｜ BA in Sociology  ｜ 2019
 
 

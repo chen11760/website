@@ -1,7 +1,9 @@
+
 /* Broadside: photo aligned with name */
 .quarto-about-broadside .about-main {
   align-items: flex-start;
 }
+
 
 .quarto-about-broadside .about-entity {
   margin-top: 25px;
@@ -14,12 +16,13 @@
 
 /* Navigation */
 .navbar {
-  border-bottom: 1px solid #191970;
+  border-bottom: 1px solid #767b78;
 }
+
 
 /* Publication links — MidnightBlue */
 #quarto-document-content a {
-  color: #191970;
+  color: #800020;
   text-decoration: none;
 }
 #quarto-document-content a:hover {
@@ -28,7 +31,7 @@
 
 /* Section headings */
 h2 {
-  margin-top: 2rem;
+  margin-top: 3.5rem;
   padding-bottom: 0.3rem;
-  border-bottom: 1px solid #d1d1d1;
+  border-bottom: 1px solid #767b78;
 }
